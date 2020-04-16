@@ -1,0 +1,41 @@
+stud_name,course_name,teacher,ects,classroom,grades,img_url
+Hans,Sec,Noah,0,203,[],https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLSlmAwmDTw4cAkci78IKLelHBndp3M-TG1Y-OS2hGoiwg-yxa&usqp=CAU
+Lesslie,FrontendDev,Sebastian,0,103,[],https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLSlmAwmDTw4cAkci78IKLelHBndp3M-TG1Y-OS2hGoiwg-yxa&usqp=CAU
+Bob,FrontendDev,Lars,0,105,[],https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLSlmAwmDTw4cAkci78IKLelHBndp3M-TG1Y-OS2hGoiwg-yxa&usqp=CAU
+Bob,Hardware,Danny,150,203,"[12, 2, -3, 7, 7]",https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Jenna,BackendDev,Steingrimur,0,205,[],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Hans,Python,Sebastian,90,103,"[12, 12, 10]",https://previews.123rf.com/images/marcinsl1987/marcinsl19871308/marcinsl1987130800016/21886543-happy-boxer-dog.jpg
+Lars,BackendDev,Bob,90,205,"[12, 0, 7]",https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Sara,FrontendDev,Vincent,150,205,"[2, 7, 4, 12, 7]",https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Sue,Hardware,Steingrimur,0,103,[],https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Kim,Python,Lars,0,205,[],https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Luna,Hardware,Vincent,120,205,"[4, -3, 4, 4]",https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Lea,FrontendDev,Steingrimur,0,101,[],https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Sara,FrontendDev,Vincent,90,205,"[2, 7, 12]",https://previews.123rf.com/images/marcinsl1987/marcinsl19871308/marcinsl1987130800016/21886543-happy-boxer-dog.jpg
+Kim,Hardware,Sebastian,30,203,[10],https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Lea,WebDev,Vincent,90,203,"[12, 10, 0]",https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Vincent,Sec,Hans,60,203,"[7, 10]",https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Laura,Hardware,Danny,30,103,[4],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Lesslie,Sec,Danny,60,203,"[2, -3]",https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLSlmAwmDTw4cAkci78IKLelHBndp3M-TG1Y-OS2hGoiwg-yxa&usqp=CAU
+Laura,BackendDev,Lars,120,103,"[4, -3, 7, 7]",https://previews.123rf.com/images/marcinsl1987/marcinsl19871308/marcinsl1987130800016/21886543-happy-boxer-dog.jpg
+Danny,Python,Bob,60,101,"[12, 7]",https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Kim,Hardware,Lars,120,101,"[-3, 10, -3, 7]",https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Sara,Python,Noah,150,105,"[0, 7, 4, 2, 4]",https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Kim,WebDev,Vincent,120,105,"[10, 4, 0, 10]",https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Vincent,FrontendDev,Vincent,30,205,[4],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Sebastian,FrontendDev,Vincent,90,101,"[7, 12, 4]",https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Noah,Python,Sebastian,150,103,"[12, 2, 10, 2, 0]",https://previews.123rf.com/images/marcinsl1987/marcinsl19871308/marcinsl1987130800016/21886543-happy-boxer-dog.jpg
+Lesslie,Sec,Hans,0,101,[],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Kim,Hardware,Sebastian,0,203,[],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Kim,Sec,Hans,150,103,"[7, 12, 4, 4, -3]",https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Steingrimur,WebDev,Sebastian,30,105,[-3],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Hans,FrontendDev,Vincent,30,103,[4],https://previews.123rf.com/images/marcinsl1987/marcinsl19871308/marcinsl1987130800016/21886543-happy-boxer-dog.jpg
+Sara,Hardware,Noah,120,205,"[10, 10, 0, 0]",https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Sara,WebDev,Steingrimur,120,103,"[0, 0, -3, 2]",https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+Lesslie,Python,Hans,150,203,"[4, 12, 10, -3, 0]",https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Jenna,Sec,Sebastian,0,103,[],https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLSlmAwmDTw4cAkci78IKLelHBndp3M-TG1Y-OS2hGoiwg-yxa&usqp=CAU
+Bob,FrontendDev,Bob,0,105,[],https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLSlmAwmDTw4cAkci78IKLelHBndp3M-TG1Y-OS2hGoiwg-yxa&usqp=CAU
+Sara,Sec,Hans,0,101,[],https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Luna,FrontendDev,Noah,120,205,"[12, 4, 7, 10]",https://previews.123rf.com/images/smilingsunray/smilingsunray1407/smilingsunray140700013/30212484-funny-smiling-boxer-dog-portrait.jpg
+Lesslie,Python,Sebastian,150,101,"[7, 10, 10, -3, 12]",https://www.dogster.com/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg
+Lea,BackendDev,Steingrimur,0,203,[],https://images.unsplash.com/photo-1442605527737-ed62b867591f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
